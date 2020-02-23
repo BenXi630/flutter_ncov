@@ -6,12 +6,15 @@
 
 # 项目截图
 ![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG1.jpeg)
+
 ![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG2.jpeg)
+
 ![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG3.jpeg)
+
 ![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG4.jpeg)
 
-# 下载地址
-![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG4.jpeg)
+# 下载地址(访问密码111)
+![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/UiRo.png)
 
 ## Getting Started
 This project is a starting point for a Flutter application.
