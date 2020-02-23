@@ -5,15 +5,15 @@
 本人刚开始学flutter，所以做个项目练练手，本项目的灵感来自于这位大佬，感谢！地址：https://github.com/fluttercandies/ncov_2019
 
 # 项目截图
-https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG1.jpeg
-https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG2.jpeg
-https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG3.jpeg
-https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG4.jpeg
-# 下载地址
+![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG1.jpeg)
+![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG2.jpeg)
+![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG3.jpeg)
+![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG4.jpeg)
 
+# 下载地址
+![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG4.jpeg)
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
